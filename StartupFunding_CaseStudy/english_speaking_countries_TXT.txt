@@ -1,0 +1,60 @@
+Country
+Botswana
+Cameroon
+Ethiopia
+Eritrea
+The Gambia
+Ghana
+Kenya
+Lesotho
+Liberia
+Malawi
+Mauritius
+Namibia
+Nigeria
+Rwanda
+Seychelles
+Sierra Leone
+South Africa
+South Sudan
+Sudan
+Swaziland
+Tanzania
+Uganda
+Zambia
+Zimbabwe
+Antigua and Barbuda
+The Bahamas
+Barbados
+Belize
+Canada
+Dominica
+Grenada
+Guyana
+Jamaica
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Trinidad and Tobago
+United States of America
+India
+Pakistan
+Philippines
+Singapore
+Australia
+Fiji
+Kiribati
+Marshall Islands
+Federated States of Micronesia
+Nauru
+New Zealand
+Palau
+Papua New Guinea
+Samoa
+Solomon Islands
+Tonga
+Tuvalu
+Vanuatu
+Ireland
+Malta
+United Kingdom of Great Britain and Northern Ireland
